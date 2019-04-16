@@ -13,5 +13,7 @@ class Song
     @total_num_song
   end
   
-  
+  def self.genre 
+    
+  end
 end
