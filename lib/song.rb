@@ -21,6 +21,6 @@ class Song
   end
   
   def self.artist
-    
+    @@artist.push()
   end
 end
