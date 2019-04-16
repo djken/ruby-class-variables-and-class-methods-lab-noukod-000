@@ -11,6 +11,7 @@ class Song
     
     @@genre.push(@genre)
     @@artist.push(@artist)
+    
     @@count += 1
   end
   
