@@ -10,6 +10,8 @@ class Song
   end
   
   def self.count
-    
+    @total_num_song
   end
+  
+  
 end
